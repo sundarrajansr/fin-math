@@ -1,6 +1,6 @@
 import csv
 
-statement_file = '/Users/surajan/Documents/reader-dump/june2022.txt'
+statement_file = 'june2022.txt'
 
 
 def readCSV(filePath):
